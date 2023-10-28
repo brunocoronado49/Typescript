@@ -9,4 +9,3 @@
     };
     console.log(typeof activateBatSignal);
 })();
-//# sourceMappingURL=functions.js.map

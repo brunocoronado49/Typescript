@@ -11,4 +11,3 @@
     };
     error('Ayyyy mi dedo con artriti');
 })();
-//# sourceMappingURL=never.js.map

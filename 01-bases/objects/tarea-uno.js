@@ -41,4 +41,3 @@ console.log(apocalipsis);
 let mystique;
 mystique = charles;
 mystique = apocalipsis;
-//# sourceMappingURL=tarea-uno.js.map

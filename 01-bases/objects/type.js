@@ -14,4 +14,3 @@
         }
     };
 })();
-//# sourceMappingURL=type.js.map

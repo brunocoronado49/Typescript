@@ -8,4 +8,3 @@
     const a = callSuperman();
     console.log(a);
 })();
-//# sourceMappingURL=void.js.map
