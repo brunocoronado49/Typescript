@@ -11,3 +11,4 @@
         powers: ['Sueprstrenght'],
     };
 })();
+//# sourceMappingURL=objects.js.map
